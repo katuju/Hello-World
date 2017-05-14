@@ -1,3 +1,3 @@
 # Hello-World
 first project
-testing byt editing readme.md file
+testing by editing readme.md file
